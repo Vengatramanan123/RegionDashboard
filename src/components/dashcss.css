@@ -1,0 +1,20 @@
+.card1{
+    background-color: lightcyan;
+    color : black
+}
+.card2{
+    background-color:rgba(210, 237, 244, 255);
+    color: black;
+}
+.card3{
+    background-color:rgba(250, 241, 196, 255);;
+    color: black;
+}
+.scrollable-table {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.name{
+    background:linear-gradient(white,skyblue);
+}
